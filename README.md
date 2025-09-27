@@ -161,6 +161,7 @@ chmod +x build.sh
 
 ./build.sh
 ```
+> This will create libORB_SLAM3.so at lib folder and the executables in Examples folder.
 
 ## 4. Test ORB-SLAM3
 
