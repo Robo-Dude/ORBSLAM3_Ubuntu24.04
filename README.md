@@ -163,6 +163,13 @@ chmod +x build.sh
 ```
 > This will create libORB_SLAM3.so at lib folder and the executables in Examples folder.
 
+#### Important for Ros2 Orb-slam 3 package setup -
+
+```bash
+cd ~/ORB-SLAM3/ThirdParty/Sophus/build
+sudo make install
+```
+
 ## 4. Test ORB-SLAM3
 
  ```bash
